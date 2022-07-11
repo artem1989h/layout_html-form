@@ -1,1 +1,19 @@
 /* styles go here */
+fieldset {
+  margin-bottom: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+.textarea {
+  margin-bottom: 10px;
+}
+
+.term,
+.password,
+.rate,
+.recommend {
+  margin-bottom: 0;
+}
