@@ -3,12 +3,13 @@ fieldset {
   margin-bottom: 20px;
 }
 
-div {
+label {
   margin-bottom: 10px;
+  display: block;
 }
 
-.textarea {
-  margin-bottom: 10px;
+.yes {
+  display: inline;
 }
 
 .term,
